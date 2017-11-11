@@ -12,7 +12,7 @@ public class ManejoFecha {
 		  LocalDate parsedDate = LocalDate.parse(text, formatter);
 		  System.out.println(parsedDate);
 		  System.out.println(text);
-		  System.out.println("FAVA1");
+		  System.out.println("FAVAESLALEy");
 	}
 	
 }
